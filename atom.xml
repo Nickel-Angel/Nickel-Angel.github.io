@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nickel-Angel.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-13T14:33:55.287Z</updated>
+    <title>Nickel_Angel&apos;s nest</title>
+    <updated>2021-02-13T14:36:58.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nickel-Angel.github.io"/>
     <link rel="self" href="https://Nickel-Angel.github.io/atom.xml"/>
     <subtitle>The key to magic is inside of us.</subtitle>
     <logo>https://Nickel-Angel.github.io/images/avatar.png</logo>
     <icon>https://Nickel-Angel.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Nickel_Angel&apos;s nest</rights>
     <entry>
         <title type="html"><![CDATA[乘法逆元]]></title>
         <id>https://Nickel-Angel.github.io/post/inverse/</id>
